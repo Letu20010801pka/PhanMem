@@ -1,0 +1,31 @@
+.desc a{
+    color: #f05123;
+    font-weight: 600;/*Chữ đậm*/
+}
+
+.desc{
+    font-size: 17px;
+}
+.list{
+    font-size: 17px;
+}
+.list strong{
+    color: #f05123;
+}
+
+.list em{
+    color: #f05123;
+    font-weight: 600;
+}
+
+.coppy a{
+    color: #f05123;
+    font-weight: 900;
+}
+
+.coppy{
+    color: black;
+    font-size: 20px;
+}
+
+
